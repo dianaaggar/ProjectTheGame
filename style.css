@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('https://t3.ftcdn.net/jpg/02/59/38/04/360_F_259380419_X1jjgRfbo3v2qj6DBymhyar3wc7ENQ8k.jpg');
+    background-size:1550px 800px;
+    background-repeat: no-repeat;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
