@@ -49,6 +49,11 @@ h1{
 .info-container .name{
     float: left;
     width: 50%;
+    
+}
+.info-container .tries{
+    float: right;
+    width: 50%;
     text-align: right;
 }
 .memory-game-blocks{
