@@ -6,4 +6,6 @@ document.querySelector(".control-buttons span").onclick = function () {
    } else {
 document.querySelector(".name span").innerHTML = yourName;
    }
+   document.querySelector(".control-buttons").remove();
+
 };
