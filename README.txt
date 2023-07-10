@@ -1,3 +1,7 @@
+PROJECT1: BUILD A GAME 
+
+MEMORY GAME:
+
 The game involves flipping face-down cards on a grid, with hidden an image. 
 The player selects two cards to flip,  If the images on the two flipped cards match, 
 the player finds a pair. If not, the player has to try again.
@@ -12,3 +16,4 @@ in as few moves as possible.
  JAVASCRIPT 
 
  
+
