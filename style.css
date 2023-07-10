@@ -71,7 +71,7 @@ h1{
     cursor: pointer;
     position: relative;
     flex: 1 0 200px;
-    margin: 0 10px 20px;
+    margin: 0 5px 5px;
   }
   .memory-game-blocks .game-block .front {
     background-color: navy;
